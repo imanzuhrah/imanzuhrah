@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imanzuhrah;
-- 🧕🏻 I'm Muslim Women;
+- 🧕🏻 I'm Muslim Woman;
 - 🌎 I'm from Botucatu, São Paulo, Brazil;
 - 📚 I’m Computer Engineering (UNIVESP) and Systems Development Technician student (SENAI);
 - 💻 I’m currently learning Java, JavaScript and Phyton development, HTML and CSS. 
